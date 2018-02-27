@@ -1,0 +1,1 @@
+node buildscripts/srcServer.js
