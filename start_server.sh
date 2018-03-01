@@ -1,1 +1,1 @@
-node buildscripts/srcServer.js
+node buildScripts/srcServer.js
